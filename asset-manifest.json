@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/english-exercises/static/css/main.aa841340.chunk.css",
+    "main.js": "/english-exercises/static/js/main.40767999.chunk.js",
+    "main.js.map": "/english-exercises/static/js/main.40767999.chunk.js.map",
+    "runtime-main.js": "/english-exercises/static/js/runtime-main.b07fa199.js",
+    "runtime-main.js.map": "/english-exercises/static/js/runtime-main.b07fa199.js.map",
+    "static/js/2.d22b9090.chunk.js": "/english-exercises/static/js/2.d22b9090.chunk.js",
+    "static/js/2.d22b9090.chunk.js.map": "/english-exercises/static/js/2.d22b9090.chunk.js.map",
+    "static/js/3.90e601d2.chunk.js": "/english-exercises/static/js/3.90e601d2.chunk.js",
+    "static/js/3.90e601d2.chunk.js.map": "/english-exercises/static/js/3.90e601d2.chunk.js.map",
+    "index.html": "/english-exercises/index.html",
+    "static/css/main.aa841340.chunk.css.map": "/english-exercises/static/css/main.aa841340.chunk.css.map",
+    "static/js/2.d22b9090.chunk.js.LICENSE.txt": "/english-exercises/static/js/2.d22b9090.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b07fa199.js",
+    "static/js/2.d22b9090.chunk.js",
+    "static/css/main.aa841340.chunk.css",
+    "static/js/main.40767999.chunk.js"
+  ]
+}
